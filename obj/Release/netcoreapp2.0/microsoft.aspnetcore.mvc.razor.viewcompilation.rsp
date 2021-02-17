@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=FoodOrder
+--content-root=C:\Users\ACER\source\repos\FoodOrder\FoodOrder
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Foods\Random.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Home\About.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Home\Cart.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Home\Index.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Home\LogIn.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Home\SignUp.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Shared\Error.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Shared\_Layout.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\_ViewImports.cshtml
+--file=C:\Users\ACER\source\repos\FoodOrder\FoodOrder\Views\_ViewStart.cshtml
