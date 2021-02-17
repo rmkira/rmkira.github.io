@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\bin\Debug\netcoreapp2.0\FoodOrder.deps.json
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\bin\Debug\netcoreapp2.0\FoodOrder.runtimeconfig.json
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\bin\Debug\netcoreapp2.0\FoodOrder.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\bin\Debug\netcoreapp2.0\FoodOrder.dll
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\obj\Debug\netcoreapp2.0\FoodOrder.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\obj\Debug\netcoreapp2.0\FoodOrder.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\obj\Debug\netcoreapp2.0\FoodOrder.AssemblyInfo.cs
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\bin\Debug\netcoreapp2.0\FoodOrder.pdb
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\obj\Debug\netcoreapp2.0\FoodOrder.dll
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\obj\Debug\netcoreapp2.0\FoodOrder.pdb
+C:\Users\ACER\source\repos\FoodOrder\FoodOrder\obj\Debug\netcoreapp2.0\FoodOrder.csprojResolveAssemblyReference.cache
